@@ -4,3 +4,5 @@
 *.docx
 __pycache__
 .venv
+.gitattributes
+.gitignore
